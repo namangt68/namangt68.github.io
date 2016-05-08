@@ -16,7 +16,8 @@ make
 make qemu
 {% endhighlight %}
 
+Check out the [Xv6-book][xv6-book] for more info
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
+[xv6-book]: https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
