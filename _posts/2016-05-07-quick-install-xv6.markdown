@@ -6,8 +6,6 @@ categories: xv6 OS
 ---
 Quick Install and run xv6 
 
-
-
 {% highlight shell %}
 sudo apt-get install qemu
 sudo apt-get install libc6-dev:i386
@@ -18,7 +16,6 @@ make
 make qemu
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

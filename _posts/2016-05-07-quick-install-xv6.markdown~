@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick install xv6 OS"
-date:   2016-05-09 21:36:29 +0530
+date:   2016-05-09 9:36:29 +0530
 categories: xv6 OS
 ---
 Quick Install and run xv6 
@@ -11,7 +11,7 @@ Quick Install and run xv6
 {% highlight shell %}
 sudo apt-get install qemu
 sudo apt-get install libc6-dev:i386
-https://github.com/mit-pdos/xv6-public.git xv6
+git clone https://github.com/mit-pdos/xv6-public.git xv6
 chmod 700 -R xv6
 cd xv6
 make
