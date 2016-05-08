@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick install xv6 OS"
+title:  "Quick install guide xv6 OS"
 date:   2016-05-09 9:36:29 +0530
 categories: xv6 OS
 ---
