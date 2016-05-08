@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quick install xv6 OS"
-date:   2016-05-07 21:36:29 +0530
+date:   2016-05-09 21:36:29 +0530
 categories: xv6 OS
 ---
 Quick Install and run xv6 
