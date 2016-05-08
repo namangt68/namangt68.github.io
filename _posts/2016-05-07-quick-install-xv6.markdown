@@ -11,8 +11,10 @@ Quick Install and run xv6
 {% highlight shell %}
 sudo apt-get install qemu
 sudo apt-get install libc6-dev:i386
-chmod 700 -R folderpath_to_changepermission
-cd (to inside extracted folder)
+https://github.com/mit-pdos/xv6-public.git xv6
+chmod 700 -R xv6
+cd xv6
+make
 make qemu
 {% endhighlight %}
 
