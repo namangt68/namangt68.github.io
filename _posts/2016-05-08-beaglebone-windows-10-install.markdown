@@ -17,7 +17,9 @@ Follow steps and check if all three drivers are installed completely.
 
 Add and exception to proxy settings from `Change proxy settings` and add **192.168.7.2** in exception box and click save.
 
-Now open your browser(Chrome/firefox) and go to address [http://192.168.7.2](http://192.168.7.2) and you will be shown beaglebone getting started guide. 
+Connect the Beaglebone using usb cable.
+
+Now open your browser(Chrome/firefox) and go to address [http://192.168.7.2](http://192.168.7.2) and you will be shown beaglebone Getting started guide. 
 
 Go to [http://192.168.7.2:3000](http://192.168.7.2:3000) to open Cloud9 IDE.
 
