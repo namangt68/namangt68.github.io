@@ -17,4 +17,6 @@ github_username:  namangt68
 
 # Build settings
 markdown: kramdown
+paginate: 5
+
 
