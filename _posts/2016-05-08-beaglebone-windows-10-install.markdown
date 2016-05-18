@@ -4,12 +4,12 @@ title:  "Install and run Beaglebone on Windows"
 date:   2016-05-08 17:36:29 +0530
 categories: beaglebone
 ---
-`It is recommended to download updated driver to run beaglebone.`
+`It is recommended to download updated driver to run beaglebone to avoid driver installation errors.`
 
-**For Windows 64 bit**: Download from [here](https://github.com/jadonk/beaglebone-getting-started/raw/master/Drivers/Windows/BONE_D64.exe).
+**For Windows 64 bit**: Download driver from [here](https://github.com/jadonk/beaglebone-getting-started/raw/master/Drivers/Windows/BONE_D64.exe).
 
 
-**For Windows 32 bit**: Download from [here](https://github.com/jadonk/beaglebone-getting-started/raw/master/Drivers/Windows/BONE_DRV.exe).
+**For Windows 32 bit**: Download driver from [here](https://github.com/jadonk/beaglebone-getting-started/raw/master/Drivers/Windows/BONE_DRV.exe).
 
 Right click on downloaded file and click `Run as administrator`.
 
