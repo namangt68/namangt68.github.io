@@ -2,7 +2,7 @@
 layout: post
 title:  "Install and run Beaglebone on Windows"
 date:   2016-05-08 17:36:29 +0530
-categories: beaglebone
+categories: beaglebone proxy
 ---
 `It is recommended to download updated driver to run beaglebone to avoid driver installation errors.`
 
@@ -15,7 +15,7 @@ Right click on downloaded file and click `Run as administrator`.
 
 Follow steps and check if all three drivers are installed completely.
 
-Add and exception to proxy settings from `Change proxy settings` and add **192.168.7.2** in exception box and click save.
+Add and exception to proxy settings(if you use proxy)from `Change proxy settings` and add **192.168.7.2** in exception box and click save.
 
 Connect the Beaglebone using usb cable.
 
