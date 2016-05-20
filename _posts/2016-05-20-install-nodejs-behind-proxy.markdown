@@ -4,7 +4,7 @@ title:  "Easy install Nodejs behind proxy"
 date:   2016-05-20 17:36:29 +0530
 categories: nodejs proxy js
 ---
-####Install nvm 
+##Install nvm 
 In this post you will learn how  to easy install nodejs behind proxy.(For unix)
 
 `It is recommended to install nodejs through **nvm** which helps you manage nodejs versions and switch between them.`
