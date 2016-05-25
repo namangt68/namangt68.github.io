@@ -2,7 +2,7 @@
 layout: post
 title:  "Easy install Nodejs behind proxy"
 date:   2016-05-20 17:36:29 +0530
-categories: nodejs proxy js
+categories: nodejs proxy ubuntu
 ---
 
 In this post you will learn how  to easy install nodejs behind proxy.(For unix)
