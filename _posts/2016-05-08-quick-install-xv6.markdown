@@ -2,7 +2,7 @@
 layout: post
 title:  "Quick install guide xv6 OS"
 date:   2016-05-08 9:36:29 +0530
-categories: xv6 OS
+categories: xv6 OS ubuntu
 ---
 Quick Install and run xv6 - For Ubuntu
 
