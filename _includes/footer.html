@@ -5,7 +5,12 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{% include icon-email.svg %}{{ site.github_username }}</a></li>
+          <li><a href="mailto:{{ site.email }}">{% include icon-email.svg %} My email</a></li>
+            {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
